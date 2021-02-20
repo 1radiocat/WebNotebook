@@ -175,7 +175,6 @@ C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VueJS\Index.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.RazorTargetAssemblyInfo.cache
@@ -185,3 +184,5 @@ C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.dll
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.pdb
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.genruntimeconfig.cache
+C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VueDemo\Index.cshtml.g.cs
+C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VuePage\Index.cshtml.g.cs

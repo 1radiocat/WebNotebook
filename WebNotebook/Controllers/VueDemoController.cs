@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebNotebook.Controllers
 {
-    public class VueJSController : Controller
+    public class VueDemoController : Controller
     {
         public IActionResult Index()
         {
