@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[4.6.0, )"
             },
+            "systemjs.TypeScript.DefinitelyTyped": {
+              "target": "Package",
+              "version": "[0.0.7, )"
+            },
             "vue": {
               "target": "Package",
               "version": "[2.6.11, )"

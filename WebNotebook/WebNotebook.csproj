@@ -16,6 +16,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="systemjs.TypeScript.DefinitelyTyped" Version="0.0.7" />
     <PackageReference Include="vue" Version="2.6.11" />
   </ItemGroup>
 
@@ -38,6 +39,10 @@
     <None Update="Media\ProviderLogo.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\dist\" />
   </ItemGroup>
 
 </Project>

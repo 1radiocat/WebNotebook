@@ -3221,6 +3221,9 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "systemjs.TypeScript.DefinitelyTyped/0.0.7": {
+        "type": "package"
+      },
       "vue/2.6.11": {
         "type": "package"
       }
@@ -10090,6 +10093,19 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "systemjs.TypeScript.DefinitelyTyped/0.0.7": {
+      "sha512": "NkvK6SEf/1y9hjdXtF4UuVnz8fTJPsQFBng19X0bTp3FR555EQ4x7LqySUSIduRiD+T4QdjJu/AfYM7yDjyyJA==",
+      "type": "package",
+      "path": "systemjs.typescript.definitelytyped/0.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/typings/systemjs/systemjs-0.18.4.d.ts",
+        "Content/Scripts/typings/systemjs/systemjs.d.ts",
+        "systemjs.typescript.definitelytyped.0.0.7.nupkg.sha512",
+        "systemjs.typescript.definitelytyped.nuspec"
+      ]
+    },
     "vue/2.6.11": {
       "sha512": "QvC2UH8Eaz/aEc6+bf1WpdtZl8iAToPuPxI2To6yDfOyqcTL4fvAlpNix1TXzSVQhPcABmbDcDt49uq/HcNmOQ==",
       "type": "package",
@@ -10115,6 +10131,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.8",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.4",
       "bootstrap >= 4.6.0",
+      "systemjs.TypeScript.DefinitelyTyped >= 0.0.7",
       "vue >= 2.6.11"
     ]
   },
@@ -10186,6 +10203,10 @@
           "bootstrap": {
             "target": "Package",
             "version": "[4.6.0, )"
+          },
+          "systemjs.TypeScript.DefinitelyTyped": {
+            "target": "Package",
+            "version": "[0.0.7, )"
           },
           "vue": {
             "target": "Package",

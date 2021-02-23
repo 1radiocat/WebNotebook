@@ -152,7 +152,6 @@ C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.csprojAssemblyReference.cache
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.AssemblyInfo.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.csproj.CoreCompileInputs.cache
@@ -186,3 +185,5 @@ C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.genruntimeconfig.cache
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VueDemo\Index.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VuePage\Index.cshtml.g.cs
+C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\package-lock.json
+C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\package.json
