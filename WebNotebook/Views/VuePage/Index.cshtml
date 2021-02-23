@@ -1,18 +1,26 @@
 ﻿@using System.Data
 
-@{
-    ViewData["Title"] = "Управление контактами Vue.js";
-}
-<h4>@ViewData["Title"]</h4>
+<!DOCTYPE html>
 
-<hr>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    @{
+        ViewData["Title"] = "Управление контактами Vue.js";
+    }
+</head>
+<body>
 
-<div id="app">
-    <vue-component>
+    <h4>@ViewData["Title"]</h4>
 
-    </vue-component>
-</div>
+    <hr>
 
-@section scripts {
-<script src="@Url.Content("~/bundle/VuePage.js")"></script>
-}
+    <div id="app">
+        <vue-component>
+        </vue-component>
+    </div>
+
+    <script src="@Url.Content("~/bundle/VuePage.js")"></script>
+
+</body>
+</html>
