@@ -187,3 +187,4 @@ C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\Razor\Views\VuePage\Index.cshtml.g.cs
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\package-lock.json
 C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\bin\Release\netcoreapp3.1\package.json
+C:\Users\User\Desktop\WebNotebook\WebNotebook\WebNotebook\obj\Release\netcoreapp3.1\WebNotebook.csprojAssemblyReference.cache

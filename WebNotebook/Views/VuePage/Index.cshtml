@@ -20,7 +20,9 @@
         </vue-component>
     </div>
 
-    <script src="@Url.Content("~/bundle/VuePage.js")"></script>
+    @section scripts {
+        <script src="@Url.Content("~/bundle/VuePage.js")"></script>
+    }
 
-</body>
+    </body>
 </html>
